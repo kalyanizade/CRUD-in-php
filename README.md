@@ -18,9 +18,9 @@
 
 Create CRUD operation ?
  -
-   CREATE – Write MySQL INSERT Query in PHP to insert data into the MySQL table.
-   READ   – Fetch data from the MySQL table and display it in an HTML table using PHP.
-   UPDATE – Write MySQL UPDATE Query in PHP to update data in the MySQL table using PHP.
-   DELETE – Write MySQL DELETE Query in PHP to  delete the data from the MySQL table using PHP.
+   1. CREATE – Write MySQL INSERT Query in PHP to insert data into the MySQL table.
+   2. READ   – Fetch data from the MySQL table and display it in an HTML table using PHP.
+   3. UPDATE – Write MySQL UPDATE Query in PHP to update data in the MySQL table using PHP.
+   4. DELETE – Write MySQL DELETE Query in PHP to  delete the data from the MySQL table using PHP.
 
     
